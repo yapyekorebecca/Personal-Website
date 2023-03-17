@@ -1,0 +1,68 @@
+#page{
+    width:400px;
+    height:200px ;
+    text-align: center;
+     line-height:50px;  
+     align-items:center;
+     display: flex;   
+     justify-content: center;  
+  
+}
+.bio{
+    background-color: rgb(199, 197, 197);
+    
+}
+.bio:hover{
+    background-color:aqua;
+      
+}
+.photo{
+    background-color: rgb(40, 40, 109);
+    margin-left: 800px;
+    margin-top: -200px;
+    position: relative;
+   
+}
+.photo:hover{
+    background-color: brown;
+}
+.education{
+    background-color: grey;
+    margin-left: 400px;
+}
+.education:hover{
+    background-color: yellow;
+}
+.hobbies{
+    background-color: rgb(105, 105, 179);
+    
+}
+.hobbies:hover{
+    background-color: greenyellow ;
+}
+.contact{
+    background-color: rgb(247, 130, 87);
+    margin-left: 800px;
+    margin-top: -200px;   
+}
+.contact:hover{
+    background-color: goldenrod;
+}
+.box{
+    background-color: pink;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.container{
+    background-color:pink;
+}
+.base{
+    background-color: pink;
+}
+.seal{
+    background-color: pink;
+}
+.flow{
+    background-color: pink;
+}
+  
